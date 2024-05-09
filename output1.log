@@ -1,0 +1,8 @@
+Real-time_detect/real_time_pub.py:72: UserWarning: 'real-time publish_44154_1687846491016' is not a legal ROS base name. This may cause problems with other ROS tools.
+  rospy.init_node("real-time publish", anonymous=True)
+[FATAL] [1687846491.141831]: unable to register service [/real-time publish_44154_1687846491016/get_loggers] with master: ERROR: parameter [service] contains illegal chars
+[FATAL] [1687846491.143247]: unable to register service [/real-time publish_44154_1687846491016/set_logger_level] with master: ERROR: parameter [service] contains illegal chars
+/opt/ros/noetic/lib/python3/dist-packages/rospy/topics.py:842: UserWarning: 'real-time_image' is not a legal ROS graph resource name. This may cause problems with other ROS tools
+  super(Publisher, self).__init__(name, data_class, Registration.PUB)
+D455 have connected ...
+关闭相机

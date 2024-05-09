@@ -1,0 +1,111 @@
+{
+    "Approach": {
+        "precision": 0.934453781512605,
+        "recall": 0.8514548238897397,
+        "f1-score": 0.8910256410256411,
+        "support": 653
+    },
+    "Departure": {
+        "precision": 0.7436743674367436,
+        "recall": 0.8233861144945189,
+        "f1-score": 0.7815028901734105,
+        "support": 821
+    },
+    "DiscardSample": {
+        "precision": 0.993421052631579,
+        "recall": 0.6317991631799164,
+        "f1-score": 0.772378516624041,
+        "support": 717
+    },
+    "PlacePipette": {
+        "precision": 0.6009132420091324,
+        "recall": 0.8623853211009175,
+        "f1-score": 0.7082884822389666,
+        "support": 763
+    },
+    "PlacePreservCyt": {
+        "precision": 0.9794520547945206,
+        "recall": 0.61472326706072,
+        "f1-score": 0.7553648068669527,
+        "support": 1861
+    },
+    "PlaceT-tube": {
+        "precision": 0.7226890756302521,
+        "recall": 0.6045694200351494,
+        "f1-score": 0.6583732057416267,
+        "support": 569
+    },
+    "TakePipette": {
+        "precision": 0.81875,
+        "recall": 0.22822299651567945,
+        "f1-score": 0.35694822888283373,
+        "support": 574
+    },
+    "TakePreservCyt": {
+        "precision": 0.6528810408921933,
+        "recall": 0.9486833220796759,
+        "f1-score": 0.7734654555463805,
+        "support": 1481
+    },
+    "TakeSample": {
+        "precision": 0.73568281938326,
+        "recall": 0.8505942275042445,
+        "f1-score": 0.788976377952756,
+        "support": 589
+    },
+    "TakeT-tube": {
+        "precision": 0.7884465261514442,
+        "recall": 0.8523206751054853,
+        "f1-score": 0.819140308191403,
+        "support": 1185
+    },
+    "TwistPreservCyt": {
+        "precision": 0.9938875305623472,
+        "recall": 0.8127290903032323,
+        "f1-score": 0.8942254812098992,
+        "support": 3001
+    },
+    "UseOscillator": {
+        "precision": 0.9827338129496402,
+        "recall": 0.9204851752021563,
+        "f1-score": 0.9505915100904662,
+        "support": 742
+    },
+    "UsePipette": {
+        "precision": 0.9664804469273743,
+        "recall": 0.9380325329202169,
+        "f1-score": 0.9520440251572327,
+        "support": 1291
+    },
+    "UseSample": {
+        "precision": 0.53,
+        "recall": 0.9792147806004619,
+        "f1-score": 0.6877534468775346,
+        "support": 433
+    },
+    "UseT-tube": {
+        "precision": 0.7226890756302521,
+        "recall": 0.9983416252072969,
+        "f1-score": 0.8384401114206128,
+        "support": 603
+    },
+    "WaitingRobot": {
+        "precision": 0.725,
+        "recall": 1.0,
+        "f1-score": 0.8405797101449275,
+        "support": 725
+    },
+    "accuracy": 0.809720139930035,
+    "macro avg": {
+        "precision": 0.805697176656959,
+        "recall": 0.8073089084499632,
+        "f1-score": 0.7793186373840428,
+        "support": 16008
+    },
+    "weighted avg": {
+        "precision": 0.8483557224557337,
+        "recall": 0.809720139930035,
+        "f1-score": 0.8067588508818019,
+        "support": 16008
+    }
+}

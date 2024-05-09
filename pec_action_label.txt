@@ -1,0 +1,17 @@
+Approach
+TakeT-tube
+TakePreservCyt
+TakePipette
+TakeSample
+TwistPreservCyt
+PlaceT-tube
+PlacePreservCyt
+PlacePipette
+PlaceSample
+UseT-tube
+UsePipette
+UseSample
+UseOscillator
+DiscardSample
+WaitingRobot
+Departure
